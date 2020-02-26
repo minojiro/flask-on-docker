@@ -13,3 +13,5 @@ docker-compose stop
 # ログを見る（command + c で止まる）
 docker-compose logs -f web
 ```
+
+ブラウザで `http://localhost:5000/` で見られる
